@@ -1,2 +1,2 @@
 # firstrepo
-what is the purpose of the repo
+to make changes and creates new repositories which contains various different set of files.
